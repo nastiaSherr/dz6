@@ -1,0 +1,63 @@
+.logo-img {
+  height: 50px;
+  width: 65px;
+  display: inline-block;
+}
+
+.header {
+  width: 910px;
+}
+
+.header-1 {
+  align-items: center;
+  border: 1px solid black;
+}
+
+.header-col {
+  vertical-align: middle;
+  height: 100%;
+  width: 300px;
+  display: inline-block;
+}
+
+.header-col-center {
+  text-align: center;
+}
+
+.header-col-right {
+  text-align: right;
+}
+
+.header-col-left {
+  text-align: left;
+}
+
+.nav {
+  height: 100%;
+}
+
+.list {
+  list-style: none;
+  margin: 5px;
+  padding: 0;
+  text-align: center;
+}
+
+.item {
+  display: inline-block;
+  margin: 6px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-style: normal;
+}
+
+.contacts {
+  text-align: right;
+}
+
+.contacts-tel {
+  color: purple;
+}

@@ -61,3 +61,51 @@
 .contacts-tel {
   color: purple;
 }
+
+.circle {
+  height: 200px;
+  width: 200px;
+  background-color: lightblue;
+  display: inline-block;
+  margin-top: 80px;
+  margin-left: 120px;
+}
+
+.circle-small {
+  background-color: red;
+  height: 50px;
+  width: 50px;
+  position: relative;
+}
+.circle-small-1 {
+  top: 12px;
+  left: 6px;
+}
+
+.circle-small-2 {
+  top: 100px;
+  left: 150px;
+}
+
+.circle-small-3 {
+  bottom: 150px;
+  left: 100px;
+}
+
+.circle-small-4 {
+  left: 150px;
+}
+
+.circle-small-5 {
+  bottom: 100px;
+  left: 150px;
+}
+
+.circle-small-6 {
+  bottom: 100px;
+  left: 200px;
+}
+
+.circle-2 {
+  margin-left: 270px;
+}
